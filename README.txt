@@ -1,0 +1,1 @@
+This project includes some data alongwith python scripts to compute the virial mass of the Galaxy from various literatures. The project is mainly undertaken for Bland-Hawthorn 2016 review article on galactic parameters.  
