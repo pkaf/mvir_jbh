@@ -1,1 +1,1 @@
-This project includes some data alongwith python scripts to compute the virial mass of the Galaxy from various literature sources. The project is mainly undertaken for JBH 2016 review article on galactic parameters.  
+Here, I have collected some data as well as written python scripts to compute the virial mass of our own the Milky Way Galaxy from various literature sources. The project is mainly undertaken for JBH 2016 review article on galactic parameters.  
